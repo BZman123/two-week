@@ -38,7 +38,7 @@ byte = -128~127 [-2^7=-128，2^7-1=127
 
 #### 今日拓展
 
-<img src="C:\Users\YXY\Desktop\two-week\5-27\img\今日目标.png"/>
+<img src="https://github.com/BZman123/two-week/blob/master/5-27/img/%E4%BB%8A%E6%97%A5%E7%9B%AE%E6%A0%87.png"/>
 
 [葵花宝典](http://www.runoob.com/java/java-tutorial.html)
 
